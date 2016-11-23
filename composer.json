@@ -5,6 +5,7 @@
     "homepage": "https://github.com/sincco/excell",
     "type": "library",
     "license": "LGPL-2.1",
+    "version": "1.0",
     "authors": [
         {
             "name": "Maarten Balliauw",
@@ -20,6 +21,10 @@
         },
         {
             "name": "Erik Tilt"
+        },
+        {
+            "name": "Ivan Miranda",
+            "email": "ivan.miranda@sincco.com"
         }
     ],
     "require": {
